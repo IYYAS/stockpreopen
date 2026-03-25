@@ -46,7 +46,7 @@ const MiniChart: React.FC<MiniChartProps> = ({ symbol, identifier, timeframe = '
     const fetchChartData = async () => {
         try {
             setLoading(true);
-            const res = await fetch(`http://localhost:3001/api/chart-data?symbol=${identifier}&days=${timeframe}`);
+            const res = await fetch(`/api/chart-data?symbol=${identifier}&days=${timeframe}`);
             if (!res.ok) throw new Error();
             const data = await res.json();
             setChartData(data);

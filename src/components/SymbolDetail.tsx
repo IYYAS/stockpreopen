@@ -29,7 +29,7 @@ const SymbolDetail: React.FC = () => {
         try {
             setLoading(true);
             setError(null); // Clear previous errors
-            const res = await fetch(`http://localhost:3001/api/chart-data?symbol=${symbol}&days=${timeframe}`, { signal: newAbortController.signal });
+            const res = await fetch(`/api/chart-data?symbol=${symbol}&days=${timeframe}`, { signal: newAbortController.signal });
             if (!res.ok) throw new Error('Failed to fetch chart data');
             const data = await res.json();
             setChartData(data);

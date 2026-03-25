@@ -2,7 +2,7 @@ import React, { useState, useEffect, useMemo } from 'react';
 import { Link } from 'react-router-dom';
 import type { FeedResponse, FeedItem } from '../types/feed';
 
-const FEED_API_URL = 'http://localhost:3001/api/news-feed?publisherId=stocknewssummary&size=50';
+const FEED_API_URL = '/api/news-feed?publisherId=stocknewssummary&size=50';
 
 const NewsFeed: React.FC = () => {
   const [news, setNews] = useState<FeedItem[]>([]);
@@ -19,7 +19,7 @@ const NewsFeed: React.FC = () => {
       else setLoadingMore(true);
 
       const size = isInitial ? 50 : 10;
-      const response = await fetch(`http://localhost:3001/api/news-feed?page=${pageNum}&size=${size}&publisherId=stocknewssummary`);
+      const response = await fetch(`/api/news-feed?page=${pageNum}&size=${size}&publisherId=stocknewssummary`);
       
       if (!response.ok) {
         throw new Error('Failed to fetch news');

@@ -4,7 +4,7 @@ import { useDashboard, type MarketSegment } from '../context/DashboardContext';
 import MiniChart from './MiniChart';
 import type { NsePreOpenData } from '../types/nse';
 
-const API_BASE_URL = 'http://localhost:3001/api/pre-open?key=';
+const API_BASE_URL = '/api/pre-open?key=';
 
 const AllCharts: React.FC = () => {
     const { segment, setSegment, search, filter } = useDashboard();

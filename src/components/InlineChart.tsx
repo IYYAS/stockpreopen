@@ -20,7 +20,7 @@ const InlineChart: React.FC<InlineChartProps> = ({ symbol, identifier }) => {
         const fetchChartData = async () => {
             try {
                 setLoading(true);
-                const res = await fetch(`http://localhost:3001/api/chart-data?symbol=${identifier}&days=1D`);
+                const res = await fetch(`/api/chart-data?symbol=${identifier}&days=1D`);
                 if (!res.ok) throw new Error('Failed to fetch chart data');
                 const data = await res.json();
                 setChartData(data);

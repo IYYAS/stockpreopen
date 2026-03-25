@@ -5,7 +5,7 @@ import { useDashboard, DEFAULT_RANGE, type SortKey, type TFilter, type MarketSeg
 import InlineChart from './InlineChart';
 import MiniChart from './MiniChart';
 
-const API_BASE_URL = 'http://localhost:3001/api/pre-open?key=';
+const API_BASE_URL = '/api/pre-open?key=';
 
 const Dashboard: React.FC = () => {
     const {
