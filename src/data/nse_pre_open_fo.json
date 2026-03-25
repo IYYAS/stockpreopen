@@ -1,0 +1,1230 @@
+{
+    "declines": 194,
+    "unchanged": 2,
+    "data": [
+        {
+            "metadata": {
+                "symbol": "ONGC",
+                "identifier": "ONGCEQN",
+                "series": "EQ",
+                "lastPrice": 287,
+                "change": 4.8,
+                "pChange": 1.7,
+                "previousClose": 282.2,
+                "finalQuantity": 468711,
+                "totalTurnover": 134520057,
+                "marketCap": 1111743075322.48,
+                "yearHigh": 293,
+                "yearLow": 205,
+                "iep": 287
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 285.9,
+                            "buyQty": 10,
+                            "sellQty": 0
+                        },
+                        {
+                            "price": 286,
+                            "buyQty": 4437,
+                            "sellQty": 0
+                        },
+                        {
+                            "price": 287,
+                            "buyQty": 0,
+                            "sellQty": 77113,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 287,
+                    "totalTradedVolume": 468711,
+                    "finalPrice": 287,
+                    "finalQuantity": 468711,
+                    "lastUpdateTime": "04-Mar-2026 09:07:57",
+                    "totalSellQuantity": 856277,
+                    "totalBuyQuantity": 639767,
+                    "Change": 4.8,
+                    "perChange": 1.7,
+                    "prevClose": 282.2
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "OIL",
+                "identifier": "OILEQN",
+                "series": "EQ",
+                "lastPrice": 495.05,
+                "change": 7,
+                "pChange": 1.43,
+                "previousClose": 488.05,
+                "finalQuantity": 75090,
+                "totalTurnover": 37173304,
+                "marketCap": 269255394754.05,
+                "yearHigh": 524,
+                "yearLow": 325,
+                "iep": 495.05
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 493.05,
+                            "buyQty": 20,
+                            "sellQty": 0
+                        },
+                        {
+                            "price": 495.05,
+                            "buyQty": 2023,
+                            "sellQty": 0,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 495.05,
+                    "totalTradedVolume": 75090,
+                    "finalPrice": 495.05,
+                    "finalQuantity": 75090,
+                    "lastUpdateTime": "04-Mar-2026 09:07:57",
+                    "totalSellQuantity": 305416,
+                    "totalBuyQuantity": 159826,
+                    "Change": 7,
+                    "perChange": 1.43,
+                    "prevClose": 488.05
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "BEL",
+                "identifier": "BELEQN",
+                "series": "EQ",
+                "lastPrice": 460,
+                "change": 6.05,
+                "pChange": 1.33,
+                "previousClose": 453.95,
+                "finalQuantity": 786950,
+                "totalTurnover": 361997000,
+                "marketCap": 1643010800442.04,
+                "yearHigh": 461.65,
+                "yearLow": 244.36,
+                "iep": 460
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 458.5,
+                            "buyQty": 4406,
+                            "sellQty": 0
+                        },
+                        {
+                            "price": 460,
+                            "buyQty": 12557,
+                            "sellQty": 0,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 460,
+                    "totalTradedVolume": 786950,
+                    "finalPrice": 460,
+                    "finalQuantity": 786950,
+                    "lastUpdateTime": "04-Mar-2026 09:07:57",
+                    "totalSellQuantity": 557766,
+                    "totalBuyQuantity": 574871,
+                    "Change": 6.05,
+                    "perChange": 1.33,
+                    "prevClose": 453.95
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "SOLARINDS",
+                "identifier": "SOLARINDSEQN",
+                "series": "EQ",
+                "lastPrice": 13974,
+                "change": 135,
+                "pChange": 0.97,
+                "previousClose": 13989,
+                "finalQuantity": 0,
+                "totalTurnover": 0,
+                "marketCap": 339471089857.93,
+                "yearHigh": 17820,
+                "yearLow": 8649.9,
+                "iep": 14124
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 14124,
+                            "buyQty": 0,
+                            "sellQty": 0,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 14124,
+                    "totalTradedVolume": 0,
+                    "finalPrice": 13974,
+                    "finalQuantity": 0,
+                    "lastUpdateTime": "04-Mar-2026 09:07:57",
+                    "totalSellQuantity": 4393,
+                    "totalBuyQuantity": 5750,
+                    "Change": 135,
+                    "perChange": 0.97,
+                    "prevClose": 13989
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "NATIONALUM",
+                "identifier": "NATIONALUMEQN",
+                "series": "EQ",
+                "lastPrice": 365,
+                "change": 2.15,
+                "pChange": 0.59,
+                "previousClose": 362.85,
+                "finalQuantity": 157039,
+                "totalTurnover": 57319235,
+                "marketCap": 326407468461.57,
+                "yearHigh": 431.5,
+                "yearLow": 137.75,
+                "iep": 365
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 365,
+                            "buyQty": 21485,
+                            "sellQty": 0,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 365,
+                    "totalTradedVolume": 157039,
+                    "finalPrice": 365,
+                    "finalQuantity": 157039,
+                    "lastUpdateTime": "04-Mar-2026 09:07:57",
+                    "totalSellQuantity": 176105,
+                    "totalBuyQuantity": 332574,
+                    "Change": 2.15,
+                    "perChange": 0.59,
+                    "prevClose": 362.85
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "HAL",
+                "identifier": "HALEQN",
+                "series": "EQ",
+                "lastPrice": 3971.3,
+                "change": 19.7,
+                "pChange": 0.5,
+                "previousClose": 3951.6,
+                "finalQuantity": 24883,
+                "totalTurnover": 98817857,
+                "marketCap": 751416937798.37,
+                "yearHigh": 5165,
+                "yearLow": 3046.05,
+                "iep": 3971.3
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 3971.3,
+                            "buyQty": 622,
+                            "sellQty": 0,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 3971.3,
+                    "totalTradedVolume": 24883,
+                    "finalPrice": 3971.3,
+                    "finalQuantity": 24883,
+                    "lastUpdateTime": "04-Mar-2026 09:07:56",
+                    "totalSellQuantity": 34497,
+                    "totalBuyQuantity": 46049,
+                    "Change": 19.7,
+                    "perChange": 0.5,
+                    "prevClose": 3951.6
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "TCS",
+                "identifier": "TCSEQN",
+                "series": "EQ",
+                "lastPrice": 2625,
+                "change": 11.5,
+                "pChange": 0.44,
+                "previousClose": 2613.5,
+                "finalQuantity": 107256,
+                "totalTurnover": 281547000,
+                "marketCap": 2673094163784.59,
+                "yearHigh": 3710,
+                "yearLow": 2561.3,
+                "iep": 2625
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 2625,
+                            "buyQty": 2037,
+                            "sellQty": 0,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 2625,
+                    "totalTradedVolume": 107256,
+                    "finalPrice": 2625,
+                    "finalQuantity": 107256,
+                    "lastUpdateTime": "04-Mar-2026 09:07:57",
+                    "totalSellQuantity": 34562,
+                    "totalBuyQuantity": 64902,
+                    "Change": 11.5,
+                    "perChange": 0.44,
+                    "prevClose": 2613.5
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "MARICO",
+                "identifier": "MARICOEQN",
+                "series": "EQ",
+                "lastPrice": 782.1,
+                "change": 2.95,
+                "pChange": 0.38,
+                "previousClose": 779.15,
+                "finalQuantity": 6814,
+                "totalTurnover": 5329229,
+                "marketCap": 412263360678.55,
+                "yearHigh": 813.5,
+                "yearLow": 577.85,
+                "iep": 782.1
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 782.1,
+                            "buyQty": 188,
+                            "sellQty": 0,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 782.1,
+                    "totalTradedVolume": 6814,
+                    "finalPrice": 782.1,
+                    "finalQuantity": 6814,
+                    "lastUpdateTime": "04-Mar-2026 09:08:10",
+                    "totalSellQuantity": 5038,
+                    "totalBuyQuantity": 7359,
+                    "Change": 2.95,
+                    "perChange": 0.38,
+                    "prevClose": 779.15
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "INFY",
+                "identifier": "INFYEQN",
+                "series": "EQ",
+                "lastPrice": 1292,
+                "change": 3.1,
+                "pChange": 0.24,
+                "previousClose": 1288.9,
+                "finalQuantity": 365650,
+                "totalTurnover": 472419800,
+                "marketCap": 4513109192567.59,
+                "yearHigh": 1732.95,
+                "yearLow": 1264.1,
+                "iep": 1292
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 1292,
+                            "buyQty": 79106,
+                            "sellQty": 0,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 1292,
+                    "totalTradedVolume": 365650,
+                    "finalPrice": 1292,
+                    "finalQuantity": 365650,
+                    "lastUpdateTime": "04-Mar-2026 09:07:56",
+                    "totalSellQuantity": 133450,
+                    "totalBuyQuantity": 413716,
+                    "Change": 3.1,
+                    "perChange": 0.24,
+                    "prevClose": 1288.9
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "LUPIN",
+                "identifier": "LUPINEQN",
+                "series": "EQ",
+                "lastPrice": 2311.1,
+                "change": 0,
+                "pChange": 0,
+                "previousClose": 2311.1,
+                "finalQuantity": 7068,
+                "totalTurnover": 16334854,
+                "marketCap": 558994238967.8,
+                "yearHigh": 2336.3,
+                "yearLow": 1795.2,
+                "iep": 2311.1
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 2311.1,
+                            "buyQty": 0,
+                            "sellQty": 432,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 2311.1,
+                    "totalTradedVolume": 7068,
+                    "finalPrice": 2311.1,
+                    "finalQuantity": 7068,
+                    "lastUpdateTime": "04-Mar-2026 09:08:10",
+                    "totalSellQuantity": 9502,
+                    "totalBuyQuantity": 6556,
+                    "Change": 0,
+                    "perChange": 0,
+                    "prevClose": 2311.1
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "COALINDIA",
+                "identifier": "COALINDIAEQN",
+                "series": "EQ",
+                "lastPrice": 426,
+                "change": -0.25,
+                "pChange": -0.06,
+                "previousClose": 426.25,
+                "finalQuantity": 102172,
+                "totalTurnover": 43525272,
+                "marketCap": 964588031485.3,
+                "yearHigh": 461.55,
+                "yearLow": 352.4,
+                "iep": 426
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 426,
+                            "buyQty": 100060,
+                            "sellQty": 0,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 426,
+                    "totalTradedVolume": 102172,
+                    "finalPrice": 426,
+                    "finalQuantity": 102172,
+                    "lastUpdateTime": "04-Mar-2026 09:07:57",
+                    "totalSellQuantity": 176732,
+                    "totalBuyQuantity": 230902,
+                    "Change": -0.25,
+                    "perChange": -0.06,
+                    "prevClose": 426.25
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "CIPLA",
+                "identifier": "CIPLAEQN",
+                "series": "EQ",
+                "lastPrice": 1348.2,
+                "change": -3.4,
+                "pChange": -0.25,
+                "previousClose": 1351.6,
+                "finalQuantity": 10368,
+                "totalTurnover": 13978137,
+                "marketCap": 756435552756.38,
+                "yearHigh": 1673,
+                "yearLow": 1281.7,
+                "iep": 1348.2
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 1348.2,
+                            "buyQty": 0,
+                            "sellQty": 1269,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 1348.2,
+                    "totalTradedVolume": 10368,
+                    "finalPrice": 1348.2,
+                    "finalQuantity": 10368,
+                    "lastUpdateTime": "04-Mar-2026 09:08:09",
+                    "totalSellQuantity": 23888,
+                    "totalBuyQuantity": 18169,
+                    "Change": -3.4,
+                    "perChange": -0.25,
+                    "prevClose": 1351.6
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "POWERGRID",
+                "identifier": "POWERGRIDEQN",
+                "series": "EQ",
+                "lastPrice": 296,
+                "change": -0.8,
+                "pChange": -0.27,
+                "previousClose": 296.8,
+                "finalQuantity": 203685,
+                "totalTurnover": 60290760,
+                "marketCap": 1336984120430.42,
+                "yearHigh": 322,
+                "yearLow": 248.5,
+                "iep": 296
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 296,
+                            "buyQty": 0,
+                            "sellQty": 1429,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 296,
+                    "totalTradedVolume": 203685,
+                    "finalPrice": 296,
+                    "finalQuantity": 203685,
+                    "lastUpdateTime": "04-Mar-2026 09:07:57",
+                    "totalSellQuantity": 190667,
+                    "totalBuyQuantity": 308336,
+                    "Change": -0.8,
+                    "perChange": -0.27,
+                    "prevClose": 296.8
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "MCX",
+                "identifier": "MCXEQN",
+                "series": "EQ",
+                "lastPrice": 2494.2,
+                "change": -7,
+                "pChange": -0.28,
+                "previousClose": 2501.2,
+                "finalQuantity": 24649,
+                "totalTurnover": 61479535,
+                "marketCap": 634558210302.58,
+                "yearHigh": 2705,
+                "yearLow": 881.63,
+                "iep": 2494.2
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 2494.2,
+                            "buyQty": 0,
+                            "sellQty": 1382,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 2494.2,
+                    "totalTradedVolume": 24649,
+                    "finalPrice": 2494.2,
+                    "finalQuantity": 24649,
+                    "lastUpdateTime": "04-Mar-2026 09:07:57",
+                    "totalSellQuantity": 51367,
+                    "totalBuyQuantity": 35018,
+                    "Change": -7,
+                    "perChange": -0.28,
+                    "prevClose": 2501.2
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "UPL",
+                "identifier": "UPLEQN",
+                "series": "EQ",
+                "lastPrice": 621,
+                "change": -1.85,
+                "pChange": -0.3,
+                "previousClose": 622.85,
+                "finalQuantity": 19324,
+                "totalTurnover": 12000204,
+                "marketCap": 347220188580.49,
+                "yearHigh": 812.2,
+                "yearLow": 588.85,
+                "iep": 621
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 621,
+                            "buyQty": 0,
+                            "sellQty": 732,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 621,
+                    "totalTradedVolume": 19324,
+                    "finalPrice": 621,
+                    "finalQuantity": 19324,
+                    "lastUpdateTime": "04-Mar-2026 09:07:57",
+                    "totalSellQuantity": 28277,
+                    "totalBuyQuantity": 21245,
+                    "Change": -1.85,
+                    "perChange": -0.3,
+                    "prevClose": 622.85
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "CHOLAFIN",
+                "identifier": "CHOLAFINEQN",
+                "series": "EQ",
+                "lastPrice": 1695.9,
+                "change": -7.8,
+                "pChange": -0.46,
+                "previousClose": 1703.7,
+                "finalQuantity": 10305,
+                "totalTurnover": 17476249,
+                "marketCap": 721889639753.94,
+                "yearHigh": 1831.5,
+                "yearLow": 1358.65,
+                "iep": 1695.9
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 1695.9,
+                            "buyQty": 0,
+                            "sellQty": 852,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 1695.9,
+                    "totalTradedVolume": 10305,
+                    "finalPrice": 1695.9,
+                    "finalQuantity": 10305,
+                    "lastUpdateTime": "04-Mar-2026 09:08:09",
+                    "totalSellQuantity": 9042,
+                    "totalBuyQuantity": 8124,
+                    "Change": -7.8,
+                    "perChange": -0.46,
+                    "prevClose": 1703.7
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "BHARTIARTL",
+                "identifier": "BHARTIARTLEQN",
+                "series": "EQ",
+                "lastPrice": 1861.1,
+                "change": -12.1,
+                "pChange": -0.65,
+                "previousClose": 1873.2,
+                "finalQuantity": 447413,
+                "totalTurnover": 832680334,
+                "marketCap": 5171425436220.82,
+                "yearHigh": 2174.5,
+                "yearLow": 1568,
+                "iep": 1861.1
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 1861.1,
+                            "buyQty": 6241,
+                            "sellQty": 0,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 1861.1,
+                    "totalTradedVolume": 447413,
+                    "finalPrice": 1861.1,
+                    "finalQuantity": 447413,
+                    "lastUpdateTime": "04-Mar-2026 09:07:57",
+                    "totalSellQuantity": 32268,
+                    "totalBuyQuantity": 63815,
+                    "Change": -12.1,
+                    "perChange": -0.65,
+                    "prevClose": 1873.2
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "ADANIENT",
+                "identifier": "ADANIENTEQN",
+                "series": "EQ",
+                "lastPrice": 2104.6,
+                "change": -20,
+                "pChange": -0.94,
+                "previousClose": 2124.6,
+                "finalQuantity": 6290,
+                "totalTurnover": 13237934,
+                "marketCap": 546637276879.98,
+                "yearHigh": 2616.5,
+                "yearLow": 1848,
+                "iep": 2104.6
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 2104.6,
+                            "buyQty": 0,
+                            "sellQty": 227,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 2104.6,
+                    "totalTradedVolume": 6290,
+                    "finalPrice": 2104.6,
+                    "finalQuantity": 6290,
+                    "lastUpdateTime": "04-Mar-2026 09:08:09",
+                    "totalSellQuantity": 47985,
+                    "totalBuyQuantity": 15904,
+                    "Change": -20,
+                    "perChange": -0.94,
+                    "prevClose": 2124.6
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "TATACONSUM",
+                "identifier": "TATACONSUMEQN",
+                "series": "EQ",
+                "lastPrice": 1114.5,
+                "change": -10.7,
+                "pChange": -0.95,
+                "previousClose": 1125.2,
+                "finalQuantity": 5635,
+                "totalTurnover": 6280207,
+                "marketCap": 723648639990.08,
+                "yearHigh": 1220.9,
+                "yearLow": 930.1,
+                "iep": 1114.5
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 1114.5,
+                            "buyQty": 0,
+                            "sellQty": 1210,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 1114.5,
+                    "totalTradedVolume": 5635,
+                    "finalPrice": 1114.5,
+                    "finalQuantity": 5635,
+                    "lastUpdateTime": "04-Mar-2026 09:08:09",
+                    "totalSellQuantity": 22081,
+                    "totalBuyQuantity": 8210,
+                    "Change": -10.7,
+                    "perChange": -0.95,
+                    "prevClose": 1125.2
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "BRITANNIA",
+                "identifier": "BRITANNIAEQN",
+                "series": "EQ",
+                "lastPrice": 5901.5,
+                "change": -57.5,
+                "pChange": -0.96,
+                "previousClose": 5959,
+                "finalQuantity": 657,
+                "totalTurnover": 3877285,
+                "marketCap": 694092279415.29,
+                "yearHigh": 6336,
+                "yearLow": 4506,
+                "iep": 5901.5
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 5901.5,
+                            "buyQty": 243,
+                            "sellQty": 0,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 5901.5,
+                    "totalTradedVolume": 657,
+                    "finalPrice": 5901.5,
+                    "finalQuantity": 657,
+                    "lastUpdateTime": "04-Mar-2026 09:08:09",
+                    "totalSellQuantity": 3781,
+                    "totalBuyQuantity": 1936,
+                    "Change": -57.5,
+                    "perChange": -0.96,
+                    "prevClose": 5959
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "NAUKRI",
+                "identifier": "NAUKRIEQN",
+                "series": "EQ",
+                "lastPrice": 988.8,
+                "change": -9.7,
+                "pChange": -0.97,
+                "previousClose": 998.5,
+                "finalQuantity": 2120,
+                "totalTurnover": 2096256,
+                "marketCap": 383100412902.56,
+                "yearHigh": 1550,
+                "yearLow": 985,
+                "iep": 988.8
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 988.8,
+                            "buyQty": 0,
+                            "sellQty": 60,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 988.8,
+                    "totalTradedVolume": 2120,
+                    "finalPrice": 988.8,
+                    "finalQuantity": 2120,
+                    "lastUpdateTime": "04-Mar-2026 09:08:09",
+                    "totalSellQuantity": 7810,
+                    "totalBuyQuantity": 4539,
+                    "Change": -9.7,
+                    "perChange": -0.97,
+                    "prevClose": 998.5
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "SHRIRAMFIN",
+                "identifier": "SHRIRAMFINEQN",
+                "series": "EQ",
+                "lastPrice": 1042.3,
+                "change": -10.2,
+                "pChange": -0.97,
+                "previousClose": 1052.5,
+                "finalQuantity": 245448,
+                "totalTurnover": 255830450,
+                "marketCap": 1455831108805.99,
+                "yearHigh": 1108,
+                "yearLow": 566.5,
+                "iep": 1042.3
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 1042.3,
+                            "buyQty": 1543,
+                            "sellQty": 0,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 1042.3,
+                    "totalTradedVolume": 245448,
+                    "finalPrice": 1042.3,
+                    "finalQuantity": 245448,
+                    "lastUpdateTime": "04-Mar-2026 09:07:57",
+                    "totalSellQuantity": 197631,
+                    "totalBuyQuantity": 56343,
+                    "Change": -10.2,
+                    "perChange": -0.97,
+                    "prevClose": 1052.5
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "DIVISLAB",
+                "identifier": "DIVISLABEQN",
+                "series": "EQ",
+                "lastPrice": 6340,
+                "change": -63.5,
+                "pChange": -0.99,
+                "previousClose": 6403.5,
+                "finalQuantity": 790,
+                "totalTurnover": 5008600,
+                "marketCap": 803331374574.36,
+                "yearHigh": 7071.5,
+                "yearLow": 4955,
+                "iep": 6340
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 6340,
+                            "buyQty": 69,
+                            "sellQty": 0,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 6340,
+                    "totalTradedVolume": 790,
+                    "finalPrice": 6340,
+                    "finalQuantity": 790,
+                    "lastUpdateTime": "04-Mar-2026 09:07:58",
+                    "totalSellQuantity": 6135,
+                    "totalBuyQuantity": 2343,
+                    "Change": -63.5,
+                    "perChange": -0.99,
+                    "prevClose": 6403.5
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "PAYTM",
+                "identifier": "PAYTMEQN",
+                "series": "EQ",
+                "lastPrice": 1048.9,
+                "change": -10.5,
+                "pChange": -0.99,
+                "previousClose": 1059.4,
+                "finalQuantity": 16405,
+                "totalTurnover": 17207204,
+                "marketCap": 424825168676.67,
+                "yearHigh": 1381.8,
+                "yearLow": 651.5,
+                "iep": 1048.9
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 1048.9,
+                            "buyQty": 0,
+                            "sellQty": 584,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 1048.9,
+                    "totalTradedVolume": 16405,
+                    "finalPrice": 1048.9,
+                    "finalQuantity": 16405,
+                    "lastUpdateTime": "04-Mar-2026 09:08:09",
+                    "totalSellQuantity": 45367,
+                    "totalBuyQuantity": 16347,
+                    "Change": -10.5,
+                    "perChange": -0.99,
+                    "prevClose": 1059.4
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "BANDHANBNK",
+                "identifier": "BANDHANBNKEQN",
+                "series": "EQ",
+                "lastPrice": 175.88,
+                "change": -1.78,
+                "pChange": -1,
+                "previousClose": 177.66,
+                "finalQuantity": 31533,
+                "totalTurnover": 5546024,
+                "marketCap": 154747974650.19,
+                "yearHigh": 192.48,
+                "yearLow": 134.25,
+                "iep": 175.88
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 175.88,
+                            "buyQty": 0,
+                            "sellQty": 8568,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 175.88,
+                    "totalTradedVolume": 31533,
+                    "finalPrice": 175.88,
+                    "finalQuantity": 31533,
+                    "lastUpdateTime": "04-Mar-2026 09:08:09",
+                    "totalSellQuantity": 218956,
+                    "totalBuyQuantity": 93729,
+                    "Change": -1.78,
+                    "perChange": -1,
+                    "prevClose": 177.66
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "NHPC",
+                "identifier": "NHPCEQN",
+                "series": "EQ",
+                "lastPrice": 72.48,
+                "change": -0.66,
+                "pChange": -0.9,
+                "previousClose": 73.14,
+                "finalQuantity": 123917,
+                "totalTurnover": 8981504,
+                "marketCap": 228673291903.55,
+                "yearHigh": 92.34,
+                "yearLow": 71.5,
+                "iep": 72.48
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 72.48,
+                            "buyQty": 0,
+                            "sellQty": 2765,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 72.48,
+                    "totalTradedVolume": 123917,
+                    "finalPrice": 72.48,
+                    "finalQuantity": 123917,
+                    "lastUpdateTime": "04-Mar-2026 09:07:57",
+                    "totalSellQuantity": 443876,
+                    "totalBuyQuantity": 263512,
+                    "Change": -0.66,
+                    "perChange": -0.9,
+                    "prevClose": 73.14
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "PNBHOUSING",
+                "identifier": "PNBHOUSINGEQN",
+                "series": "EQ",
+                "lastPrice": 805,
+                "change": -8.3,
+                "pChange": -1.02,
+                "previousClose": 813.3,
+                "finalQuantity": 814,
+                "totalTurnover": 655270,
+                "marketCap": 150869341376.13,
+                "yearHigh": 1141.9,
+                "yearLow": 750.3,
+                "iep": 805
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 805,
+                            "buyQty": 117,
+                            "sellQty": 0,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 805,
+                    "totalTradedVolume": 814,
+                    "finalPrice": 805,
+                    "finalQuantity": 814,
+                    "lastUpdateTime": "04-Mar-2026 09:08:09",
+                    "totalSellQuantity": 5227,
+                    "totalBuyQuantity": 15954,
+                    "Change": -8.3,
+                    "perChange": -1.02,
+                    "prevClose": 813.3
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "DMART",
+                "identifier": "DMARTEQN",
+                "series": "EQ",
+                "lastPrice": 3772.2,
+                "change": -30.3,
+                "pChange": -0.8,
+                "previousClose": 3802.5,
+                "finalQuantity": 2215,
+                "totalTurnover": 8355423,
+                "marketCap": 553914263207.48,
+                "yearHigh": 4949.5,
+                "yearLow": 3340,
+                "iep": 3772.2
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 3772.2,
+                            "buyQty": 0,
+                            "sellQty": 513,
+                            "iep": true
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 3772.2,
+                    "totalTradedVolume": 2215,
+                    "finalPrice": 3772.2,
+                    "finalQuantity": 2215,
+                    "lastUpdateTime": "04-Mar-2026 09:07:57",
+                    "totalSellQuantity": 10591,
+                    "totalBuyQuantity": 14266,
+                    "Change": -30.3,
+                    "perChange": -0.8,
+                    "prevClose": 3802.5
+                }
+            }
+        }
+    ]
+}

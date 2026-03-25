@@ -1,0 +1,178 @@
+{
+    "declines": 1824,
+    "unchanged": 134,
+    "data": [
+        {
+            "metadata": {
+                "symbol": "TECILCHEM",
+                "identifier": "TECILCHEMEQN",
+                "series": "EQ",
+                "purpose": null,
+                "lastPrice": 14.75,
+                "change": 2.06,
+                "pChange": 16.23,
+                "previousClose": 12.69,
+                "finalQuantity": 1,
+                "totalTurnover": 14,
+                "marketCap": "-",
+                "yearHigh": 42.16,
+                "yearLow": 12,
+                "iep": 14.75
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 10.26,
+                            "buyQty": 200,
+                            "sellQty": 0
+                        },
+                        {
+                            "price": 11.6,
+                            "buyQty": 1,
+                            "sellQty": 0
+                        },
+                        {
+                            "price": 11.9,
+                            "buyQty": 1,
+                            "sellQty": 0
+                        },
+                        {
+                            "price": 12,
+                            "buyQty": 300,
+                            "sellQty": 0
+                        },
+                        {
+                            "price": 12.69,
+                            "buyQty": 51,
+                            "sellQty": 0
+                        },
+                        {
+                            "price": 14.75,
+                            "buyQty": 0,
+                            "sellQty": 499,
+                            "iep": true
+                        },
+                        {
+                            "price": 14.9,
+                            "buyQty": 0,
+                            "sellQty": 3000
+                        },
+                        {
+                            "price": 15,
+                            "buyQty": 0,
+                            "sellQty": 3390
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 14.75,
+                    "totalTradedVolume": 1,
+                    "finalPrice": 14.75,
+                    "finalQuantity": 1,
+                    "lastUpdateTime": "04-Mar-2026 09:08:01",
+                    "totalSellQuantity": 6889,
+                    "totalBuyQuantity": 553,
+                    "atoBuyQty": 0,
+                    "atoSellQty": 0,
+                    "Change": 2.06,
+                    "perChange": 16.23,
+                    "prevClose": 12.69
+                }
+            }
+        },
+        {
+            "metadata": {
+                "symbol": "SAHYADRI",
+                "identifier": "SAHYADRIEQN",
+                "series": "EQ",
+                "purpose": null,
+                "lastPrice": 276.85,
+                "change": 34.8,
+                "pChange": 14.38,
+                "previousClose": 242.05,
+                "finalQuantity": 11,
+                "totalTurnover": 3045,
+                "marketCap": "-",
+                "yearHigh": 330,
+                "yearLow": 211,
+                "iep": 276.85
+            },
+            "detail": {
+                "preOpenMarket": {
+                    "preopen": [
+                        {
+                            "price": 222.6,
+                            "buyQty": 5,
+                            "sellQty": 0
+                        },
+                        {
+                            "price": 232.05,
+                            "buyQty": 2,
+                            "sellQty": 0
+                        },
+                        {
+                            "price": 235.1,
+                            "buyQty": 300,
+                            "sellQty": 0
+                        },
+                        {
+                            "price": 236.05,
+                            "buyQty": 1,
+                            "sellQty": 0
+                        },
+                        {
+                            "price": 242.95,
+                            "buyQty": 1,
+                            "sellQty": 0
+                        },
+                        {
+                            "price": 276.85,
+                            "buyQty": 0,
+                            "sellQty": 89,
+                            "iep": true
+                        },
+                        {
+                            "price": 278,
+                            "buyQty": 0,
+                            "sellQty": 200
+                        },
+                        {
+                            "price": 278.9,
+                            "buyQty": 0,
+                            "sellQty": 191
+                        },
+                        {
+                            "price": 282,
+                            "buyQty": 0,
+                            "sellQty": 5
+                        },
+                        {
+                            "price": 282.05,
+                            "buyQty": 0,
+                            "sellQty": 2
+                        }
+                    ],
+                    "ato": {
+                        "totalBuyQuantity": 0,
+                        "totalSellQuantity": 0
+                    },
+                    "IEP": 276.85,
+                    "totalTradedVolume": 11,
+                    "finalPrice": 276.85,
+                    "finalQuantity": 11,
+                    "lastUpdateTime": "04-Mar-2026 09:08:00",
+                    "totalSellQuantity": 687,
+                    "totalBuyQuantity": 1014,
+                    "atoBuyQty": 0,
+                    "atoSellQty": 0,
+                    "Change": 34.8,
+                    "perChange": 14.38,
+                    "prevClose": 242.05
+                }
+            }
+        }
+    ]
+}
